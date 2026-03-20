@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Database","l":"Database"},{"p":"DAO","l":"InventoryDAO"},{"p":"DAO","l":"XReportDAO"},{"p":"DAO","l":"XReportService"}];updateSearchResults();
